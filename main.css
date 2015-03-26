@@ -242,6 +242,10 @@ main {
   background-color: #eceff1;
 }
 
+.scores__table th.date_abbr, td.date_abbr {
+  display: none;
+}
+
 .scores__table td.winner {
   font-weight: bold;
 }
