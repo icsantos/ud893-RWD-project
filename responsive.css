@@ -11,7 +11,7 @@
   order: 10;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
   .hero {
     background-image: url("./images/dog_mobile.jpg");
   }
